@@ -1,11 +1,11 @@
 {
-  "name": "Back-end T-Shaped",
+  "name": "Back-end",
   "expertises": [
     {
       "name": "Nivel 1 - Básico",
       "cards": [
         {
-          "name": "Nome do Cartão Customizado",
+          "name": "SOLID",
           "description": "Descrição do Cartão",
           "keyObjectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
           "contents": [
@@ -17,7 +17,40 @@
           ]
         },
         {
-          "id": "nodejs-fundamentals"
+          "name": "Spring Framework",
+          "description": "Descrição do Cartão",
+          "keyObjectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
+          "contents": [
+            {
+              "type": "SITE",
+              "title": "Node.js - Documentation",
+              "link": "https://nodejs.dev/en/learn/"
+            }
+          ]
+        },
+        {
+          "name": "Design Patterns",
+          "description": "Descrição do Cartão",
+          "keyObjectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
+          "contents": [
+            {
+              "type": "SITE",
+              "title": "Node.js - Documentation",
+              "link": "https://nodejs.dev/en/learn/"
+            }
+          ]
+        },
+        {
+          "name": "Hexagonal Architecture",
+          "description": "Descrição do Cartão",
+          "keyObjectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
+          "contents": [
+            {
+              "type": "SITE",
+              "title": "Node.js - Documentation",
+              "link": "https://nodejs.dev/en/learn/"
+            }
+          ]
         }
       ]
     },
