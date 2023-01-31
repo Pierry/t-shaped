@@ -17,7 +17,7 @@
           ]
         },
         {
-          "name": "Spring Framework",
+          "name": "Dependency Injection",
           "description": "Descrição do Cartão",
           "keyObjectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
           "contents": [
@@ -42,6 +42,30 @@
         },
         {
           "name": "Hexagonal Architecture",
+          "description": "Descrição do Cartão",
+          "keyObjectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
+          "contents": [
+            {
+              "type": "SITE",
+              "title": "Node.js - Documentation",
+              "link": "https://nodejs.dev/en/learn/"
+            }
+          ]
+        },
+        {
+          "name": "Teste unitário",
+          "description": "Descrição do Cartão",
+          "keyObjectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
+          "contents": [
+            {
+              "type": "SITE",
+              "title": "Node.js - Documentation",
+              "link": "https://nodejs.dev/en/learn/"
+            }
+          ]
+        },
+        {
+          "name": "Deployment",
           "description": "Descrição do Cartão",
           "keyObjectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
           "contents": [
