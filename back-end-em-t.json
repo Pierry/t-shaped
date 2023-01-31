@@ -211,84 +211,7 @@
   ],
   "collaborations": [
     {
-      "name": "Android (Kotlin)",
-      "cards": [
-        {
-          "name": "ConstraintLayout",
-          "description": "Descrição do Cartão 1 Lateral ESQ",
-          "keyObjectives": ["Objetivo 1 Lateral ESQ", "Objetivo 2 Lateral ESQ", "Objetivo 3 Lateral ESQ"],
-          "contents": [
-            {
-              "type": "SITE",
-              "title": "Node.js - Documentation",
-              "link": "https://nodejs.dev/en/learn/"
-            }
-          ]
-        },
-        {
-          "name": "Archicture (MVVM/MVP/VIP)",
-          "description": "Descrição do Cartão 1 Lateral ESQ",
-          "keyObjectives": ["Objetivo 1 Lateral ESQ", "Objetivo 2 Lateral ESQ", "Objetivo 3 Lateral ESQ"],
-          "contents": [
-            {
-              "type": "SITE",
-              "title": "Node.js - Documentation",
-              "link": "https://nodejs.dev/en/learn/"
-            }
-          ]
-        },
-        {
-          "name": "Teste unitário e instrumentado",
-          "description": "Descrição do Cartão 1 Lateral ESQ",
-          "keyObjectives": ["Objetivo 1 Lateral ESQ", "Objetivo 2 Lateral ESQ", "Objetivo 3 Lateral ESQ"],
-          "contents": [
-            {
-              "type": "SITE",
-              "title": "Node.js - Documentation",
-              "link": "https://nodejs.dev/en/learn/"
-            }
-          ]
-        },
-        {
-          "name": "Dependency Injection",
-          "description": "Descrição do Cartão 1 Lateral ESQ",
-          "keyObjectives": ["Objetivo 1 Lateral ESQ", "Objetivo 2 Lateral ESQ", "Objetivo 3 Lateral ESQ"],
-          "contents": [
-            {
-              "type": "SITE",
-              "title": "Node.js - Documentation",
-              "link": "https://nodejs.dev/en/learn/"
-            }
-          ]
-        },
-        {
-          "name": "Jetpack",
-          "description": "Descrição do Cartão 1 Lateral ESQ",
-          "keyObjectives": ["Objetivo 1 Lateral ESQ", "Objetivo 2 Lateral ESQ", "Objetivo 3 Lateral ESQ"],
-          "contents": [
-            {
-              "type": "SITE",
-              "title": "Node.js - Documentation",
-              "link": "https://nodejs.dev/en/learn/"
-            }
-          ]
-        },
-        {
-          "name": "Observabilidade",
-          "description": "Descrição do Cartão 1 Lateral ESQ",
-          "keyObjectives": ["Objetivo 1 Lateral ESQ", "Objetivo 2 Lateral ESQ", "Objetivo 3 Lateral ESQ"],
-          "contents": [
-            {
-              "type": "SITE",
-              "title": "Node.js - Documentation",
-              "link": "https://nodejs.dev/en/learn/"
-            }
-          ]
-        },
-      ]
-    },
-    {
-      "name": "iOS (Swift)",
+      "name": "Lado Esquerdo do T",
       "cards": [
         {
           "name": "Nome do Cartão Customizado Lateral ESQ",
@@ -301,8 +224,15 @@
               "link": "https://nodejs.dev/en/learn/"
             }
           ]
+        },
+        {
+          "id": "apollo-client"
         }
       ]
+    },
+    {
+      "name": "Lado Direito do T",
+      "cards": []
     }
   ]
 }
