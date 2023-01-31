@@ -82,7 +82,7 @@
       "name": "Nivel 2 - Intermediário",
       "cards": [
         {
-          "name": "Nome do Cartão Customizado 2",
+          "name": "CI/CD",
           "description": "Descrição do Cartão 2",
           "keyObjectives": ["Objetivo 1.2", "Objetivo 2.2", "Objetivo 3.2"],
           "contents": [
@@ -94,13 +94,119 @@
           ]
         },
         {
-          "id": "apollo-client"
+          "name": "Micro services",
+          "description": "Descrição do Cartão",
+          "keyObjectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
+          "contents": [
+            {
+              "type": "SITE",
+              "title": "Node.js - Documentation",
+              "link": "https://nodejs.dev/en/learn/"
+            }
+          ]
+        },
+        {
+          "name": "Kafka/MQTT/XMPP",
+          "description": "Descrição do Cartão",
+          "keyObjectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
+          "contents": [
+            {
+              "type": "SITE",
+              "title": "Node.js - Documentation",
+              "link": "https://nodejs.dev/en/learn/"
+            }
+          ]
+        },
+        {
+          "name": "Cloud",
+          "description": "Descrição do Cartão",
+          "keyObjectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
+          "contents": [
+            {
+              "type": "SITE",
+              "title": "Node.js - Documentation",
+              "link": "https://nodejs.dev/en/learn/"
+            }
+          ]
+        },
+        {
+          "name": "Design System",
+          "description": "Descrição do Cartão",
+          "keyObjectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
+          "contents": [
+            {
+              "type": "SITE",
+              "title": "Node.js - Documentation",
+              "link": "https://nodejs.dev/en/learn/"
+            }
+          ]
+        },
+        {
+          "name": "Auth & Security",
+          "description": "Descrição do Cartão",
+          "keyObjectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
+          "contents": [
+            {
+              "type": "SITE",
+              "title": "Node.js - Documentation",
+              "link": "https://nodejs.dev/en/learn/"
+            }
+          ]
         }
       ]
     },
     {
       "name": "Nivel 3 - Avançado",
-      "cards": []
+      "cards": [
+        {
+          "name": "Observabilidade",
+          "description": "Descrição do Cartão",
+          "keyObjectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
+          "contents": [
+            {
+              "type": "SITE",
+              "title": "Node.js - Documentation",
+              "link": "https://nodejs.dev/en/learn/"
+            }
+          ]
+        },
+        {
+          "name": "Performance",
+          "description": "Descrição do Cartão",
+          "keyObjectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
+          "contents": [
+            {
+              "type": "SITE",
+              "title": "Node.js - Documentation",
+              "link": "https://nodejs.dev/en/learn/"
+            }
+          ]
+        },
+        {
+          "name": "Tracking",
+          "description": "Descrição do Cartão",
+          "keyObjectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
+          "contents": [
+            {
+              "type": "SITE",
+              "title": "Node.js - Documentation",
+              "link": "https://nodejs.dev/en/learn/"
+            }
+          ]
+        },
+        {
+          "name": "Crash reporting",
+          "description": "Descrição do Cartão",
+          "keyObjectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
+          "contents": [
+            {
+              "type": "SITE",
+              "title": "Node.js - Documentation",
+              "link": "https://nodejs.dev/en/learn/"
+            }
+          ]
+        }
+      ]
     }
   ],
   "collaborations": [
