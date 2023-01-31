@@ -1,11 +1,11 @@
 {
-  "name": "Back-end",
+  "name": "Nome do Guia",
   "expertises": [
     {
       "name": "Nivel 1 - Básico",
       "cards": [
         {
-          "name": "SOLID",
+          "name": "Nome do Cartão Customizado",
           "description": "Descrição do Cartão",
           "keyObjectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
           "contents": [
@@ -17,64 +17,7 @@
           ]
         },
         {
-          "name": "Dependency Injection",
-          "description": "Descrição do Cartão",
-          "keyObjectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
-          "contents": [
-            {
-              "type": "SITE",
-              "title": "Node.js - Documentation",
-              "link": "https://nodejs.dev/en/learn/"
-            }
-          ]
-        },
-        {
-          "name": "Design Patterns",
-          "description": "Descrição do Cartão",
-          "keyObjectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
-          "contents": [
-            {
-              "type": "SITE",
-              "title": "Node.js - Documentation",
-              "link": "https://nodejs.dev/en/learn/"
-            }
-          ]
-        },
-        {
-          "name": "Hexagonal Architecture",
-          "description": "Descrição do Cartão",
-          "keyObjectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
-          "contents": [
-            {
-              "type": "SITE",
-              "title": "Node.js - Documentation",
-              "link": "https://nodejs.dev/en/learn/"
-            }
-          ]
-        },
-        {
-          "name": "Teste unitário",
-          "description": "Descrição do Cartão",
-          "keyObjectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
-          "contents": [
-            {
-              "type": "SITE",
-              "title": "Node.js - Documentation",
-              "link": "https://nodejs.dev/en/learn/"
-            }
-          ]
-        },
-        {
-          "name": "Deployment",
-          "description": "Descrição do Cartão",
-          "keyObjectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
-          "contents": [
-            {
-              "type": "SITE",
-              "title": "Node.js - Documentation",
-              "link": "https://nodejs.dev/en/learn/"
-            }
-          ]
+          "id": "nodejs-fundamentals"
         }
       ]
     },
@@ -82,7 +25,7 @@
       "name": "Nivel 2 - Intermediário",
       "cards": [
         {
-          "name": "CI/CD",
+          "name": "Nome do Cartão Customizado 2",
           "description": "Descrição do Cartão 2",
           "keyObjectives": ["Objetivo 1.2", "Objetivo 2.2", "Objetivo 3.2"],
           "contents": [
@@ -94,119 +37,13 @@
           ]
         },
         {
-          "name": "Micro services",
-          "description": "Descrição do Cartão",
-          "keyObjectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
-          "contents": [
-            {
-              "type": "SITE",
-              "title": "Node.js - Documentation",
-              "link": "https://nodejs.dev/en/learn/"
-            }
-          ]
-        },
-        {
-          "name": "Kafka/MQTT/XMPP",
-          "description": "Descrição do Cartão",
-          "keyObjectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
-          "contents": [
-            {
-              "type": "SITE",
-              "title": "Node.js - Documentation",
-              "link": "https://nodejs.dev/en/learn/"
-            }
-          ]
-        },
-        {
-          "name": "Cloud",
-          "description": "Descrição do Cartão",
-          "keyObjectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
-          "contents": [
-            {
-              "type": "SITE",
-              "title": "Node.js - Documentation",
-              "link": "https://nodejs.dev/en/learn/"
-            }
-          ]
-        },
-        {
-          "name": "Design Systems",
-          "description": "Descrição do Cartão",
-          "keyObjectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
-          "contents": [
-            {
-              "type": "SITE",
-              "title": "Node.js - Documentation",
-              "link": "https://nodejs.dev/en/learn/"
-            }
-          ]
-        },
-        {
-          "name": "Auth & Security",
-          "description": "Descrição do Cartão",
-          "keyObjectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
-          "contents": [
-            {
-              "type": "SITE",
-              "title": "Node.js - Documentation",
-              "link": "https://nodejs.dev/en/learn/"
-            }
-          ]
+          "id": "apollo-client"
         }
       ]
     },
     {
       "name": "Nivel 3 - Avançado",
-      "cards": [
-        {
-          "name": "Observabilidade",
-          "description": "Descrição do Cartão",
-          "keyObjectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
-          "contents": [
-            {
-              "type": "SITE",
-              "title": "Node.js - Documentation",
-              "link": "https://nodejs.dev/en/learn/"
-            }
-          ]
-        },
-        {
-          "name": "Performance",
-          "description": "Descrição do Cartão",
-          "keyObjectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
-          "contents": [
-            {
-              "type": "SITE",
-              "title": "Node.js - Documentation",
-              "link": "https://nodejs.dev/en/learn/"
-            }
-          ]
-        },
-        {
-          "name": "Tracking",
-          "description": "Descrição do Cartão",
-          "keyObjectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
-          "contents": [
-            {
-              "type": "SITE",
-              "title": "Node.js - Documentation",
-              "link": "https://nodejs.dev/en/learn/"
-            }
-          ]
-        },
-        {
-          "name": "Crash reporting",
-          "description": "Descrição do Cartão",
-          "keyObjectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
-          "contents": [
-            {
-              "type": "SITE",
-              "title": "Node.js - Documentation",
-              "link": "https://nodejs.dev/en/learn/"
-            }
-          ]
-        }
-      ]
+      "cards": []
     }
   ],
   "collaborations": [
